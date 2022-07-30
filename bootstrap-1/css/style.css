@@ -1,0 +1,18 @@
+.body {
+    text-align: center;
+    background-color: #E9ECEF;
+}
+
+.card {
+    
+    height:450px;
+  }
+
+.adres {
+    font-style: italic;
+}
+
+.info {
+    color: black;
+    list-style-type:none;
+}
